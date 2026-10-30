@@ -1,0 +1,21 @@
+Le client a une méthode gql : False
+f05:   6 auteurs -> IN OK, 20 posts, 43 ms
+f10:  11 auteurs -> IN OK, 20 posts, 67 ms
+f15:  16 auteurs -> IN OK, 20 posts, 49 ms
+f20:  21 auteurs -> IN OK, 20 posts, 42 ms
+f25:  26 auteurs -> IN OK, 20 posts, 42 ms
+f30:  31 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 31 values in the IN filter in your query.
+f35:  36 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 36 values in the IN filter in your query.
+f40:  41 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 41 values in the IN filter in your query.
+f45:  46 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 46 values in the IN filter in your query.
+f50:  51 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 51 values in the IN filter in your query.
+f55:  56 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 56 values in the IN filter in your query.
+f60:  61 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 61 values in the IN filter in your query.
+f65:  66 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 66 values in the IN filter in your query.
+f70:  71 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 71 values in the IN filter in your query.
+f75:  76 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 76 values in the IN filter in your query.
+f80:  81 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 81 values in the IN filter in your query.
+f85:  86 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 86 values in the IN filter in your query.
+f90:  91 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 91 values in the IN filter in your query.
+f95:  96 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 96 values in the IN filter in your query.
+f100: 101 auteurs -> ERREUR InvalidArgument: 400 IN supports up to 30 values. There are 101 values in the IN filter in your query.
